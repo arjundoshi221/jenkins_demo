@@ -1,2 +1,2 @@
 # jenkins_demo
-Jenkins Pracs
+Jenkins Exam
